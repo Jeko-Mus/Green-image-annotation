@@ -17,3 +17,4 @@ example output image
 
 ![image](https://user-images.githubusercontent.com/57463439/163822650-30636a0c-46d8-4e96-9787-69adfaf435ce.png)
 
+python version 3.8
